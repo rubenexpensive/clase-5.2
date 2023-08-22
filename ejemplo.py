@@ -1,3 +1,3 @@
 class perro:
     def __init__(self):
-        self.nombre = "HI"
+        self.nombre = "HI2"
